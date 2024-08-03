@@ -3,7 +3,7 @@
 The **Caption Generator** project is a web application that allows users to generate captions for their uploaded photos or image links. The project incorporates a login system to authenticate users and uses the Chat GPT API to generate three different captions for each uploaded photograph.
 
 ## Features 
-<p>
+
 - User Authentication: Users can sign up and log in to access the caption generation features. 
 - Image Upload: Upload images or provide image URLs for caption generation. 
 - Caption Generation: Generate three distinct captions for each image using the Chat GPT API. 
@@ -76,4 +76,3 @@ git push origin feature/YourFeature
 ```
 
 6. Submit a pull request.
-					</p>
